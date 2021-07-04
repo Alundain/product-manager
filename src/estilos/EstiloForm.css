@@ -1,0 +1,33 @@
+form{
+	width:500px;
+	padding:10px;
+	border-radius:10px;
+	margin:auto;
+    margin-top: 10px;
+	background-color:#17202A;
+    
+}
+form label{
+	font-weight:bold;
+    text-align: left;
+    color:white;	
+}
+
+form h1{
+    text-align: center; 
+    font-style: italic;
+    color:white;
+}
+
+
+
+form button{
+    margin-top: 15px;
+    border-radius:5px;
+    font-weight:bold;
+    
+    background-color: #4D5656;
+    color:white;
+    
+
+}
